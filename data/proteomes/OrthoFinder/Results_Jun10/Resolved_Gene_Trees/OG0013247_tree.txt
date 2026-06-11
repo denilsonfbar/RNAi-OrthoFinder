@@ -1,0 +1,1 @@
+(Colletotrichum_karsti_XP_038749412.1:0.549287,(Colletotrichum_siamense_XP_036502360.1:1.28218e-06,(Colletotrichum_fructicola_XP_031882735.1:1.28218e-06,Colletotrichum_gloeosporioides_XP_045262573.1:0.484532)n2:0.471957)n1:0.549287)n0;

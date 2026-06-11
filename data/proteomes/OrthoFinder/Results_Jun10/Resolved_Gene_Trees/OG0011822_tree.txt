@@ -1,0 +1,1 @@
+(Colletotrichum_siamense_XP_036487761.1:0,(Colletotrichum_siamense_XP_036487757.1:0,(Colletotrichum_siamense_XP_036487764.1:0.012926,(Colletotrichum_siamense_XP_036487780.1:0.724239,(Colletotrichum_siamense_XP_036487797.1:1e-06,Colletotrichum_siamense_XP_036487746.1:1e-06)n4:0.371417)n3:0.39089)n2:0.020305)n1:0)n0;

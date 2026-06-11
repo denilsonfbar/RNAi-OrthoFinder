@@ -1,0 +1,18 @@
+2026-06-10 22:20:59 : Started OrthoFinder version 2.5.5
+Command Line: OrthoFinder_source/orthofinder.py -f data/proteomes -t 8 -S diamond
+
+WorkingDirectory_Base: /home/denilson/rep/RNAi-OrthoFinder/data/proteomes/OrthoFinder/Results_Jun10/WorkingDirectory/
+
+Species used: 
+0: Colletotrichum_abscissum.faa
+1: Colletotrichum_acutatum.faa
+2: Colletotrichum_fructicola.faa
+3: Colletotrichum_gloeosporioides.faa
+4: Colletotrichum_godetiae.faa
+5: Colletotrichum_karsti.faa
+6: Colletotrichum_siamense.faa
+7: Colletotrichum_truncatum.faa
+
+FN_Orthogroups: /home/denilson/rep/RNAi-OrthoFinder/data/proteomes/OrthoFinder/Results_Jun10/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /home/denilson/rep/RNAi-OrthoFinder/data/proteomes/OrthoFinder/Results_Jun10/WorkingDirectory/
+2026-06-10 22:54:46 : OrthoFinder run completed

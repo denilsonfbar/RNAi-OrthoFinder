@@ -1,0 +1,1 @@
+(Colletotrichum_gloeosporioides_XP_045268766.1:0.79135,((Colletotrichum_acutatum_XP_060371364.1:0.098834,Colletotrichum_abscissum_XP_060406212.1:0.103707)n2:0.085747,Colletotrichum_godetiae_XP_060429698.1:0.184184)n1:0.79135)n0;

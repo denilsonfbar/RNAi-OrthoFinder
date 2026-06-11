@@ -1,0 +1,1 @@
+((Colletotrichum_godetiae_XP_060432989.1:0.041366,(Colletotrichum_acutatum_XP_060364152.1:0.031374,Colletotrichum_abscissum_XP_060395730.1:0.027878):0.010577):0.0385565,(Colletotrichum_truncatum_XP_036582106.1:0.076183,(Colletotrichum_fructicola_XP_031881501.1:0.011467,Colletotrichum_siamense_XP_036492693.1:0.014197):0.090957):0.0385565);

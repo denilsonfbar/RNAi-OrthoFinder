@@ -1,0 +1,9 @@
+	Colletotrichum_abscissum	Colletotrichum_acutatum	Colletotrichum_fructicola	Colletotrichum_gloeosporioides	Colletotrichum_godetiae	Colletotrichum_karsti	Colletotrichum_siamense	Colletotrichum_truncatum
+Colletotrichum_abscissum	0.0	410.0	606.0	615.0	464.0	469.0	534.0	625.0
+Colletotrichum_acutatum	286.0	0.0	462.0	465.0	339.0	359.0	404.0	432.0
+Colletotrichum_fructicola	1317.0	1151.0	0.0	656.0	1140.0	897.0	553.0	1014.0
+Colletotrichum_gloeosporioides	1013.0	982.0	406.0	0.0	972.0	689.0	371.0	854.0
+Colletotrichum_godetiae	539.0	421.0	577.0	578.0	0.0	474.0	491.0	559.0
+Colletotrichum_karsti	891.0	820.0	626.0	588.0	820.0	0.0	599.0	675.0
+Colletotrichum_siamense	874.0	742.0	142.0	209.0	770.0	543.0	0.0	661.0
+Colletotrichum_truncatum	1110.0	943.0	829.0	802.0	946.0	803.0	736.0	0.0

@@ -1,0 +1,1 @@
+(Colletotrichum_gloeosporioides:0.0319558,(Colletotrichum_siamense:0.0146724,Colletotrichum_fructicola:0.0202548)0.569122:0.0150159,(Colletotrichum_karsti:0.119602,((Colletotrichum_godetiae:0.0472932,(Colletotrichum_acutatum:0.0331888,Colletotrichum_abscissum:0.0365521)0.726301:0.0232184)0.972932:0.144148,Colletotrichum_truncatum:0.117919)0.592588:0.0297542)0.941566:0.0833045);

@@ -1,0 +1,1 @@
+((Colletotrichum_karsti_XP_038743425.1:0.08684,Colletotrichum_gloeosporioides_XP_045270254.1:0.066959):0.0095685,((Colletotrichum_godetiae_XP_060433322.1:0.011001,Colletotrichum_acutatum_XP_060360265.1:0.037383):0.030626,Colletotrichum_abscissum_XP_060396095.1:0.152801):0.0095685);

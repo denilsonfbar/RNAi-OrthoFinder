@@ -1,0 +1,1 @@
+(Colletotrichum_karsti_XP_038747071.1:0.724553,(Colletotrichum_abscissum_XP_060398552.1:0.524863,(Colletotrichum_acutatum_XP_060370596.1:0.128211,Colletotrichum_godetiae_XP_060433388.1:0.803372)n2:0.254385)n1:0.724553)n0;

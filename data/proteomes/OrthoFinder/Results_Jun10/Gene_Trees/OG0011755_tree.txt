@@ -1,0 +1,1 @@
+(Colletotrichum_truncatum_XP_036588220.1:0.0607465,((Colletotrichum_karsti_XP_038747795.1:0.126632,Colletotrichum_gloeosporioides_XP_045267065.1:1.02583):0.037229,((Colletotrichum_gloeosporioides_XP_045271001.1:0.0406,Colletotrichum_siamense_XP_036488853.1:1.46857e-06):0.001732,Colletotrichum_fructicola_XP_031880129.1:0.001577):0.113856):0.0607465);

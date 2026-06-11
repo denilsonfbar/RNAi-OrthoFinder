@@ -1,0 +1,1 @@
+(((Colletotrichum_acutatum:0.0331888,Colletotrichum_abscissum:0.0365521)N3:0.0232184,Colletotrichum_godetiae:0.0472932)N1:0.072074,(Colletotrichum_truncatum:0.117919,(Colletotrichum_karsti:0.119602,(Colletotrichum_gloeosporioides:0.0319558,(Colletotrichum_siamense:0.0146724,Colletotrichum_fructicola:0.0202548)N6:0.0150159)N5:0.0833045)N4:0.0297542)N2:0.072074)N0;

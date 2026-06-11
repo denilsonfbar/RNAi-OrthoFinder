@@ -1,0 +1,1 @@
+((Colletotrichum_acutatum_XP_060360414.1:0.844383,Colletotrichum_siamense_XP_036496153.1:0.872982):0.031617,(Colletotrichum_acutatum_XP_060357395.1:0.322382,Colletotrichum_truncatum_XP_070059961.1:1.13543):0.031617);
